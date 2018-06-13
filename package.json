@@ -26,7 +26,6 @@
     "if-env": "^1.0.4",
     "mongoose": "^5.0.17"
   },
-  {
   "name": "BookList",
   "description": "a really cool app",
   "version": "1.0.0",
