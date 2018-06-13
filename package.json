@@ -25,12 +25,12 @@
     "express": "^4.15.4",
     "if-env": "^1.0.4",
     "mongoose": "^5.0.17"
-  }
+  },
   {
   "name": "BookList",
   "description": "a really cool app",
   "version": "1.0.0",
   "engines": {
     "node": "8.9.4"
-  }  
+  }, 
 }
